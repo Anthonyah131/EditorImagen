@@ -1,4 +1,4 @@
-# Tetris
+# Editor de Imagen
 
 Proyecto realizado el segundo año de universidad en ensamblador el cúal toma una imagen no mayor a 640 x 480 pixeles y tranformarla a un archivo con extensión .bmp,
 mediante un programa especial se generó un archivo con extensión .ier, este archivo final es el que se puede visualizar, tiene diferentes opciones tales como invertir
